@@ -206,6 +206,7 @@ Since I have an old account and I expect to spend on the bootcamp I set up a top
 - Security considerations of new user group permissions.
 - Change language to English (currently AWS console shows a mix of spanish and english)
 - Monitor the billing alarm to see if it works
+- Move images for imgur to the repository
 
 ## Lessons Learned:
 
