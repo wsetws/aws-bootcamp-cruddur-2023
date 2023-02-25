@@ -8,7 +8,7 @@ I made the following diagrams in Lucid charts, they can be viewed here: [Lucid C
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin:
 
-!(https://imgur.com/a/7YciiQK)
+![imgur](https://i.imgur.com/ZzCA5sf.png)
 
 ### Recreate Logical Architectural Diagram in Lucid Charts:
 
